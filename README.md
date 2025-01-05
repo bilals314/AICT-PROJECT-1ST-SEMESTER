@@ -4,6 +4,8 @@ The Glasgow Tour Website is a dynamic and responsive website designed to provide
 
 
 Responsive Design:
+
+
 Works seamlessly on desktops, tablets, and mobile devices.
 Interactive Navigation:
 Simple and intuitive navigation across pages.
@@ -11,6 +13,9 @@ Showcase of Attractions:
 Highlights Glasgow's key landmarks, food, and entertainment spots.
 Optimized Images: 
 Ensures fast loading times without compromising quality.
+
+
+
 Technologies Used
 Frontend:
 HTML5
