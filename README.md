@@ -1,12 +1,12 @@
-Glasgow Tour Website
-Project Overview
 The Glasgow Tour Website is a dynamic and responsive website designed to provide tourists and locals with information about Glasgow's top attractions, cultural events, dining options, and entertainment. The project focuses on creating an engaging and user-friendly platform.
-
-Features
-Responsive Design: Works seamlessly on desktops, tablets, and mobile devices.
-Interactive Navigation: Simple and intuitive navigation across pages.
-Showcase of Attractions: Highlights Glasgow's key landmarks, food, and entertainment spots.
-Optimized Images: Ensures fast loading times without compromising quality.
+Responsive Design:
+Works seamlessly on desktops, tablets, and mobile devices.
+Interactive Navigation:
+Simple and intuitive navigation across pages.
+Showcase of Attractions:
+Highlights Glasgow's key landmarks, food, and entertainment spots.
+Optimized Images: 
+Ensures fast loading times without compromising quality.
 Technologies Used
 Frontend:
 HTML5
